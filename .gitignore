@@ -10,3 +10,5 @@ _site
 /*.gz
 /*.map
 .ipynb_checkpoints
+__init__.py
+__pycache__
