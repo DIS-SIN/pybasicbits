@@ -58,7 +58,7 @@ CMD ["python", "application.py"]
 # docker rmi ###
 #
 # -- IN GIT BASH: Start the docker magic
-# -- not the period. That's key magic
+# -- note the period. That's key magic
 # docker build --tag=basicbits .
 #
 # -- note the /tcp, That's key magic
