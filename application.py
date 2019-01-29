@@ -9,4 +9,4 @@ def create_app():
         return redirect(url_for('basicbits.render_home'))
     return app
 app = create_app()
-app.run(port=5050)
+app.run(host = '0.0.0.0', port=5050)
